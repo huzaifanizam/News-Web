@@ -1,0 +1,54 @@
+body{
+    margin: 2% !important;
+    padding: 0%;
+    
+}
+
+.first-sec{
+    display: flex;
+    flex-direction: column;
+    font-size: 22px !important;
+}
+
+.first-sec a{
+    text-decoration: none ;
+    color: black;
+}
+
+.nav-sec-ul{
+    display: flex;
+    flex-direction: row;
+margin: auto;
+}
+
+#navbar-main{
+    background-color: white;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    justify-content: center;
+    
+text-align: center;
+}
+
+li{
+    list-style-type: none;
+    font-size: 25px;
+    margin: auto;
+}
+li a{
+   text-decoration: none;
+    font-size: 22px;
+    font-weight: 700;
+    color: black;
+    
+}
+
+#card1 , #card2 , #card3{
+    border: none !important;
+    border-bottom: 1px solid rgb(194, 194, 194) !important;
+    border-radius: 0px !important;
+}
+.card{
+    border: none !important;
+   
+}
